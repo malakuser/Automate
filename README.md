@@ -1,0 +1,2 @@
+#This program creates an atomate based on the input gathered from the user in Python programming language.
+##What you need to run it succesfully is to install the Graphviz (graph visualization software) on your computer .
